@@ -30,7 +30,7 @@ Click the **Fork** button at the top-right of this GitHub page. This operation c
 Download your remote repository to your local computer:
 
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/slu-git-workshop.git](https://github.com/YOUR_GITHUB_USERNAME/slu-git-workshop.git)
+git clone https://github.com/SLU-AWS-Cloud/git-series-foundation-lab.git
 cd slu-git-workshop
 ```
 
