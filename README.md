@@ -30,8 +30,8 @@ Click the **Fork** button at the top-right of this GitHub page. This operation c
 Download your remote repository to your local computer:
 
 ```bash
-git clone https://github.com/SLU-AWS-Cloud/git-series-foundation-lab.git
-cd slu-git-workshop
+git clone [https://github.com/YOUR_GITHUB_USERNAME/git-series-foundation-lab.git]
+cd git-series-foundation-lab
 ```
 
 ### 3. Create a New Branch
@@ -83,5 +83,5 @@ git push -u origin feature/add-your-name
 ### 8. Open a Pull Request
 1. Open your repository on the GitHub website.
 2. Click **Compare & pull request**.
-3. Verify that your branch points to the workshop `main` branch.
+3. Verify that your branch points to the git-series-foundation-lab `main` branch.
 4. Click **Create pull request**.
