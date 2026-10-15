@@ -1,4 +1,4 @@
-public class TemplateStudent {
+public class StudentName {
     public static void main(String[] args) {
         System.out.println("Hello, World! my name is Student Name.");
     }
