@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d7691f9-a287-4eb1-9451-42d1f5bef967" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TemplateStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="7d7691f9-a287-4eb1-9451-42d1f5bef967" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +20,69 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.8133112311144477" />
+      <entry key="MS500" value="4.317268750743228" />
+      <entry key="S2" value="7.505818081708452" />
+      <entry key="S5" value="12.352595770448481" />
+      <entry key="S10" value="17.020675829199714" />
+      <entry key="S30" value="22.709831424129884" />
+      <entry key="S60" value="24.72834263082586" />
+      <entry key="M2" value="26.611496479422456" />
+      <entry key="M5" value="32.046949249199656" />
+      <entry key="M10" value="37.275184113755614" />
+      <entry key="M15" value="39.868679547010444" />
+      <entry key="M30" value="43.06249913629546" />
+      <entry key="H1" value="44.92807827988911" />
+      <entry key="H2" value="45.9368470393939" />
+      <entry key="H4" value="46.461442272873036" />
+      <entry key="D1" value="46.90925480720668" />
+      <entry key="W1" value="46.98701205377598" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.7394414730597023" />
+      <entry key="MS500" value="4.282333034203887" />
+      <entry key="S2" value="7.4895227490620995" />
+      <entry key="S5" value="12.337565983609112" />
+      <entry key="S10" value="17.006938627930463" />
+      <entry key="S30" value="22.70164167855493" />
+      <entry key="S60" value="24.723385090019864" />
+      <entry key="M2" value="26.60779394556351" />
+      <entry key="M5" value="32.04296720213987" />
+      <entry key="M10" value="37.27189116882751" />
+      <entry key="M15" value="39.866047491433704" />
+      <entry key="M30" value="43.06091263638719" />
+      <entry key="H1" value="44.927205747150225" />
+      <entry key="H2" value="45.93638930218161" />
+      <entry key="H4" value="46.46120781703202" />
+      <entry key="D1" value="46.909214935946686" />
+      <entry key="W1" value="46.98700633814937" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -36,15 +95,26 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feat/add-student",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Shaun/Desktop/slu-git-workshop",
+    "last_opened_file_path": "C:/Users/user/OneDrive/Desktop/git-series-foundation-lab",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -52,7 +122,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
       </set>
     </attachedChunks>
   </component>
@@ -66,5 +137,19 @@
       <workItem from="1790596863498" duration="14000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
